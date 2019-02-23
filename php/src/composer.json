@@ -1,0 +1,6 @@
+{
+    "require": {
+        "league/tactician": "^1.0",
+        "nesbot/carbon": "^2.12"
+    }
+}
