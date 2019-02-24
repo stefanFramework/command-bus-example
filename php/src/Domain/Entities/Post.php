@@ -10,6 +10,8 @@ class Post
     public $id;
     public $date;
     public $content;
+    /** @var User */
+    public $user;
 
     public function __construct()
     {
